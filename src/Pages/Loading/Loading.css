@@ -1,0 +1,12 @@
+.load {
+    width: 100%;
+    height: 100vh   ;
+    background-color: blueviolet;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: absolute;
+    z-index: 22222;
+    top: 0;
+    left: 0;
+}

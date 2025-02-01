@@ -1,0 +1,52 @@
+* {
+    background-color: rgb(23, 18, 58);
+
+}
+
+.App {
+    width: 100%;
+}
+
+.head-line {
+    text-align: center;
+    color: blueviolet;
+    font-size: 70px;
+    text-transform: capitalize;
+    padding-top: 70px;
+}
+
+.parent {
+    padding-top: 50px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.my-input {
+    color: white;
+    width: 35%;
+    border: 1px solid white;
+    border-radius: 4px;
+}
+
+button {
+    background-color: blueviolet;
+    color: white;
+    padding: 9px 30px;
+    /* border-radius: 4px; */
+}
+
+.row {
+    width: 100%;
+    padding-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.col img {
+    width: 350px;
+    height: 200px;
+}
